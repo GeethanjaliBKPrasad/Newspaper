@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-repeat:repeat-y ;
+    background-color: white;
+    background-image: url(file:///C:/Users/anjali/Pictures/360_F_252001794_8r2OXk6SW7TJ3es4cksZgFVfZOEen6mm.jpg);
+    background-position-x: left;
+    background-position-y: right;
+    
+}
+.linkpage{
+    text-align: left;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: blue;
+}
+header{
+    text-align: center;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+form{
+    text-align: center;
+    font-size: larger;
+    font-family: cursive;
+    color: black;
+    font-weight: bold;
+    box-shadow: 2px 2px 15px;
+}
+input#submit{
+    color: black;
+    font-weight: bold;
+    font-size: large;
+}
